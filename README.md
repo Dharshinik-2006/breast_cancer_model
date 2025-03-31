@@ -49,7 +49,7 @@ print("Prediction:", "Malignant" if prediction[0] == 1 else "Benign")
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Contributors
-- [Your Name](https://github.com/yourusername)
+- [DHARSHINI K](https://github.com/yourusername)
 
 ---
 
